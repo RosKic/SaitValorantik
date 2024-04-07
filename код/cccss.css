@@ -1,0 +1,1108 @@
+
+.verh{
+    padding-top: 32px;
+    background: url(/картинки/Slide\ 16_9\ -\ 3.png);
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.liner{
+    display: flex;
+    justify-content: space-between;
+}
+.slovo{
+    font-family: Mirra;
+    font-size: 24px;
+    color: #FFF3D2;
+}
+.Palka{
+    width: 80px;
+    height: 2px;
+    background-color: #4D3E1A;
+    margin-top: 15px;
+}
+.prevo{
+}
+.ssilki{
+    font-family: Actay2;
+    color: #FFF3D2;
+    font-size: 17px;
+}
+.ssilki:hover{
+    color:#DDB242;
+}
+.zaglavok{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.text{
+    margin: 0 auto;
+    font-family: Mirra;
+    color: #DDB242;
+    font-size: 190px;
+}
+.Russ{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+}
+.Rus-Linia{
+    width: 192px;
+    height: 2px;
+    background-color: #DDB242;
+}
+.Rus-Linia:first-child{
+    margin-right: 20px;
+}
+.Rus-Linia:last-child{
+    margin-left: 20px;
+}
+.linea{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.LevoPhot{
+    display: flex;
+    align-items: end;
+    position: relative;
+}
+.PravoPhoti{
+    position: relative;
+    display: flex;
+    align-items: end;
+}
+.bobr{
+    width: 324.24px;
+    height: 408.11px;
+}
+.bob{
+    width: 100%;
+    height: 100%;
+}
+.petr{
+    position: absolute;
+    left: 85px;
+    width: 468.41px;
+    height: 453.54px;
+}
+.chel{
+    position: absolute;
+    right: 190px;
+    width: 506.41px;
+    height: 499px;
+}
+.chelPH{
+    width: 100%;
+    height: 100%;
+}
+.women{
+    z-index: 1;
+    width: 275.77px;
+    height: 425.16px;
+}
+.photki{
+    margin-top: 115px;
+}
+.vector{
+    width: 100%;
+    z-index: 9999;
+    bottom:-110px;
+    left: 0;
+    position: absolute;
+}
+.verh{
+    position: relative;
+}
+.pole{
+    position: relative;
+    padding-top: 230px;
+    width: 100%;
+    height: 3040px;
+    background-color: #0B0A0A;
+}
+.vectorrr{
+    width: 100%;
+}
+.Petr1Help{
+    position: absolute;
+    top:15px;
+    left: -40px;
+    opacity: 80%;
+    display: none;
+}
+.help{
+    position: relative;
+    z-index: 3;
+}
+.petr:hover .Petr1Help{
+    display: block;
+    transition: 0.3s;
+    z-index: 2;
+}
+.bobHELP{
+    position: relative;
+    z-index: 1;
+}
+.crasnBOBR{
+    position: absolute;
+    top: 4px;
+    left: -40px;
+    display: none;
+    opacity: 80%;
+}
+.bobr:hover .crasnBOBR{
+    display: block;
+}
+.chelLOLS{
+    position: relative;
+    z-index: 1;
+}
+.chelLOLSHELPS{
+    position: absolute;
+    top: 20px;
+    left: -35px;
+    display: none;
+    opacity: 80%;
+}
+.chel:hover .chelLOLSHELPS{
+    display: block;
+}
+.womenHELP{
+    position: relative;
+}
+.womenHELP{
+    z-index: 3;
+}
+.palots{
+    width: 526px;
+    height: 2px;
+    background-color: #4D3E1A;
+    float: right;
+    margin-top: 20px;
+}
+.womenSVG{
+    position: absolute;
+    top: 13px;
+    left: -40px;
+    display: none;
+    opacity: 80%;
+    z-index: 1;
+}
+.women:hover .womenSVG{
+    display: block;
+}
+.lol{
+    display: flex;
+    gap:50px;
+}
+
+.Blok{
+    margin-bottom: 50px;
+    padding: 50px;
+    background-color: #A8C4DC;
+    border-radius: 17px;
+    max-width: 671px;
+}
+.dadd{
+    max-width: 460px;
+    font-family: Actay2;
+    font-size: 23px;
+}
+.Blok2{
+    padding: 50px;
+    background-color: #A8C4DC;
+    border-radius: 17px;
+    max-width: 671px;
+}
+.levoS{
+    display: flex;
+    flex-direction: column;
+}
+
+.geroi{
+    display: flex;
+    justify-content: space-between;
+}
+
+.t{
+    font-size: 36px;
+    font-family: Mirra;
+}
+.Zaglavie{
+    font-family: Mirra;
+    font-size: 135px;
+    color: #DDB242;
+    margin-bottom: 130px;
+}
+
+.palka1{
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 85%;
+    height: 2px;
+    background-color: #DDB242;
+}
+
+.chto{
+    margin-top: 300px;
+    margin-bottom: 160px;
+    float: right;
+}
+
+.kkk{
+    font-family: Actay2;
+    font-size: 23px;
+}
+
+.Blok3{
+    float: right;
+    background-color: #FB874F;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 900px;
+    line-height:50px;
+}
+.Blok4{
+    float: left;
+    background-color: #FB874F;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 900px;
+    line-height:50px;
+    margin-top: 95px;
+}
+
+
+.OrangeSnake{
+    position: absolute;
+    bottom: 0;
+}
+
+.poleKytyzov {
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #111116;
+    padding-top: 150px;
+    padding-bottom: 130px;
+}
+.snekeSER {
+    position: absolute;
+    top: -160px;
+}
+.conteiner {
+}
+.zaglavieKYTYZOV {
+    text-align: center;
+    margin-bottom: 110px;
+}
+.zag1 {
+    font-family: Mirra;
+    font-size: 96px;
+    color: #DDB242;
+}
+.zag2 {
+    font-family: Mirra;
+    font-size: 64px;
+    color: #DDB242;
+}
+.Levo-Pravo-Kyt {
+    display: flex;
+    justify-content: space-between;
+}
+.levoKYT {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.KytBLODIN {
+    background-color: #7E2525;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 670px;
+    line-height:50px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+}
+.KytBLdva {
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    max-width:670px;
+    line-height:33px;
+}
+.texkKYT {
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 38px;
+}
+.texkKYT:last-child{
+    margin-bottom: 0px;
+}
+.pravoKYT {
+}
+.lenta{
+    position: relative;
+    display: flex;
+    justify-content: end;
+}
+.lentTextKytyzov{
+    position: absolute;
+    top:10px;
+    right: 100px;
+    font-family: Mirra;
+    font-size: 90px;
+    color: #DDB242;
+}
+.perehod{
+    margin-top: 270px;
+    position: relative;
+}
+
+.history{
+    position: absolute;
+    top: 42%;
+    right: 135px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+}
+
+.zagolovKytyz1{
+    margin-top: 100px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+    max-width: 1085px;
+}
+.zagolovKytyz4{
+    margin-bottom: 130px;
+    margin-top: 250px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+    max-width: 1085px;
+}
+.obertkaa{
+    margin-top: 250px;
+}
+.box1{
+    position: relative;
+    background-color: #7E2525;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:670px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height:33px;
+    font-weight: 100;
+}
+.boxHelper{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:670px;
+    height: 180px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+.Glavabox1{
+    display: flex;
+    justify-content: end;
+}
+.PodText1{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #DDB242;
+    max-width: 476px;
+    margin-top: 25px;
+}
+
+.box2{
+    position: relative;
+    background-color: #7E2525;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:670px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height:33px;
+    font-weight: 100;
+}
+.boxHelper2{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:670px;
+    height: 140px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.Glavabox2{
+    display: flex;
+    justify-content: start;
+}
+.PodText2{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #DDB242;
+    max-width: 500px;
+    margin-top: 25px;
+}
+.lolll2{
+    display: flex;
+    justify-content: end;
+}
+
+.levo-pravoBOX1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.boxHelper3{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:670px;
+    height: 230px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    left: -35px;
+}
+.zagolovKytyz2{
+    margin-bottom: 140px;
+    margin-top: 250px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+    display: flex;
+    justify-content: end;
+}
+.KytBLODIN2 {
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    max-width: 700px;
+    line-height:33px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+}
+.levoBOX2{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.poker1{
+    bottom:90px;
+    right: -360px;
+    position: absolute;
+}
+.levo-pravoBOX2{
+    display: flex;
+    justify-content: space-between;
+}
+.levo-pravoBOX13{
+    align-items: center;
+    margin-top: 130px;
+    display: flex;
+    justify-content: space-between;
+}
+.zagolovKytyz3{
+    font-family: Mirra;
+    font-size: 48px;
+    color: #DDB242;
+    margin-bottom: 30px;
+}
+.lapochka{
+    height: 2px;
+    background-color: #4D3E1A;
+    width: 600px;
+}
+.smert{
+    font-family: Mirra;
+    font-size: 85px;
+    color: #DDB242;
+}
+
+.palkaSMERT{
+    height: 2px;
+    background-color: #4D3E1A;
+    width: 425px;
+}
+.obertkaa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box5{
+    position: relative;
+    background-color: #7E2525;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height:33px;
+    font-weight: 100;
+}
+.boxHelper5{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 150px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.PodText5{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #DDB242;
+    max-width: 345px;
+    margin-top: 25px;
+}
+.box6{
+    position: relative;
+    background-color: #7E2525;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height:33px;
+    font-weight: 100;
+}
+.boxHelper6{
+    background-color: #7E2525;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 150px;
+    opacity: 25%;
+    z-index: 1;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+.palkaSMERT{
+    margin-top: 30px;
+    margin-bottom: 140px;
+}
+.obertka33{
+    position: relative;
+}
+.petrNOBOROT{
+    position: absolute;
+    top:-370px;
+    right: 70px;
+    z-index: 1;
+}
+.box1{
+    z-index: 2;
+}
+
+
+
+
+
+
+.polePetrPervi{
+    padding-top: 110px;
+    width: 100%;
+    height: auto;
+    background-color: #FFF3D2;
+}
+.lenta{
+    position: relative;
+    display: flex;
+    justify-content: end;
+}
+.lentTextKytyzov{
+    position: absolute;
+    top:10px;
+    right: 100px;
+    font-family: Mirra;
+    font-size: 90px;
+    color: #DDB242;
+}
+.loxx{
+    position: relative;
+    top:-85px;
+}
+.pravoKYT22{
+}
+.Levo-Pravo-Kyt2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.KytBLdva2 {
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    max-width:670px;
+    line-height:33px;
+}
+.texkKY2 {
+    font-family: Actay2;
+    font-size: 20px;
+    color: #4D220E;
+    margin-bottom: 38px;
+}
+.texkKY2:last-child{
+    margin-bottom: 0;
+}
+.zaglavieKYTYZO2 {
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+.zag11 {
+    font-family: Mirra;
+    font-size: 96px;
+    color: #4D220E;
+}
+.zag22 {
+    font-family: Mirra;
+    font-size: 64px;
+    color: #4D220E;
+}
+.zaglavokPETR{
+    margin-bottom: 60px;
+    margin-top: 210px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #4D220E;
+}
+.zaglavokPETR333{
+    margin-bottom: 60px;
+    margin-top: 210px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #4D220E;
+}
+.zaglavokPETR222{
+    margin-bottom: 250px;
+    margin-top: 100px;
+    font-family: Mirra;
+    font-size: 85px;
+    color: #4D220E;
+}
+
+
+.levo-pravoPETR{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+.boxPETR{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    z-index: 2;
+}
+.textPETR1{
+    font-family: Actay2;
+    font-size: 20px;
+    color: #4D220E;
+    line-height:33px;
+    margin-top: 40px;
+}
+.textPETR1:first-child{
+    margin-top: 0;
+}
+.boxHelperPETR{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 250px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+
+
+.boxPETR1{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    z-index: 2;
+}
+.textPETR11{
+    font-family: Actay2;
+    font-size: 20px;
+    color: #4D220E;
+    line-height:33px;
+}
+.boxHelperPETR1{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 150px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+
+.podtextPETR{
+    margin-top: 25px;
+    max-width: 646px;
+    font-family: Mirra;
+    font-size: 36px;
+    color: #4D220E;
+}
+
+.petdMELKIY{
+    position: absolute;
+    top:-180px;
+    left: 370px;
+}
+.obertka333{
+    position: relative;
+}
+
+
+.boxPETR333{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    z-index: 2;
+}
+.textPETR2{
+    font-family: Actay2;
+    font-size: 20px;
+    color: #4D220E;
+    line-height:33px;
+    margin-top: 40px;
+}
+.textPETR2:first-child{
+    margin-top: 0;
+}
+.boxHelperPETR2{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 250px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.obertka22{
+    margin-bottom: 150px;
+}
+
+.boxHelperPETR3{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 145px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.podMSGpetr1{
+    margin-bottom: 170px;
+    margin-top: 60px;
+}
+
+.levo-pravoPETR1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.levo-pravoPETR13{
+    margin-top: 120px;
+    margin-bottom: 170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.boxHelperPETR5{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:650px;
+    height:116px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+
+
+.slovoPETR{
+    max-width: 700px;
+    font-family: Mirra;
+    font-size: 40px;
+    color: #4D220E;
+}
+
+.palkaPETR{
+    margin-top: 20px;
+    width: 630px;
+    height: 2px;
+    background-color: #4D220E;
+}
+
+.podTextPetr2{
+    max-width: 307px;
+    font-family: Mirra;
+    font-size: 36px;
+    color: #4D220E;
+}
+.olyyyx{
+    text-align: end;
+}
+
+
+
+
+.boxPETRDA{
+    z-index: 2;
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    font-family: Actay2;
+    font-size: 20px;
+    color: #4D220E;
+    line-height:33px;
+    font-weight: 100;
+}
+.boxHelperPETRDA{
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height: 180px;
+    opacity: 25%;
+    z-index: -1;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.PodTextPETRDA{
+    font-family: Mirra;
+    font-size: 36px;
+    color: #4D220E;
+    max-width: 345px;
+    margin-top: 25px;
+}
+.obertka12{
+    margin-bottom: 110px;
+}
+
+
+
+
+.levoBOX2{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.poker2{
+    bottom:0;
+    right: -390px;
+    position: absolute;
+}
+
+
+
+.petrPHOTO{
+    margin-bottom: 30px;
+    font-family: Mirra;
+    font-size: 40px;
+    color: #4D220E;
+    max-width: 676px;
+}
+.petrPALKA{
+    max-width: 500px;
+    height: 2px;
+    background-color: #4D220E;
+}
+
+.perehodPETR{
+    margin-bottom: 90px;
+    display: flex;
+    justify-content: end;
+}
+.boxPETR222{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:600px;
+    z-index: 2;
+}
+
+.boxHelperPETR111{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:600px;
+    height: 150px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+
+.obertka123{
+    margin-bottom: 90px;
+}
+
+.levo-pravoPETR12{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 90px;
+}
+.petrPHOTO2{
+    margin-bottom: 30px;
+    margin-top: 60px;
+    font-family: Mirra;
+    font-size: 40px;
+    color: #4D220E;
+    max-width: 858px;
+}
+.petrPALKA2{
+    max-width: 630px;
+    height: 2px;
+    background-color: #4D220E;
+}
+.pravoPETR{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+
+
+
+.textSMERT{
+    font-family: Mirra;
+    font-size: 85px;
+    color: #4D220E;
+}
+.palkaSMERTppp{
+    margin-bottom: 100px;
+    margin-top: 8px;
+    height: 2px;
+    background-color: #4D220E;
+    width: 390px;
+}
+.boxPET333{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:699px;
+    z-index: 2;
+}
+.boxHelperPETR555{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width:699px;
+    height:145px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    left: -25px;
+}
+.obertka133{
+    display: flex;
+    justify-content: end;
+}
+
+.boxPETR223{
+    position: relative;
+    background-color: #C19A6B;
+    padding: 40px;
+    border-radius: 17px;
+    max-width:700px;
+    z-index: 2;
+}
+.boxHelperPETR1113{
+    z-index: -1;
+    background-color: #C19A6B;
+    padding: 50px;
+    border-radius: 17px;
+    width: 666px;
+    height: 113px;
+    opacity: 25%;
+    position: absolute;
+    top:-25px;
+    right: -25px;
+}
+
+
+
+.petrMEGAPHOTO{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.rovno{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
